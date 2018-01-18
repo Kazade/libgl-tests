@@ -1,0 +1,3 @@
+[submodule "libgl"]
+	path = libgl
+	url = https://github.com/Kazade/libgl.git
